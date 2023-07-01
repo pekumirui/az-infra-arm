@@ -25,6 +25,6 @@ steps:
     resourceGroupName: $(rg-name)
     location: 'japaneast'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/pekumirui/az-infra-arm.git/azurefuntion.json'
+    csmFileLink: 'https://github.com/pekumirui/az-infra-arm/blob/main/azurefuntion.json'
     deploymentMode: 'Incremental'
     deploymentName: 'deployment-azurefuntion'
